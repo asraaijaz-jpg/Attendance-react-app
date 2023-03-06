@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Attendancee-react-app/static/css/main.26772f02.css",
-    "main.js": "/Attendancee-react-app/static/js/main.37fca9d4.js",
-    "static/js/787.d1f07cb6.chunk.js": "/Attendancee-react-app/static/js/787.d1f07cb6.chunk.js",
-    "index.html": "/Attendancee-react-app/index.html",
-    "main.26772f02.css.map": "/Attendancee-react-app/static/css/main.26772f02.css.map",
-    "main.37fca9d4.js.map": "/Attendancee-react-app/static/js/main.37fca9d4.js.map",
-    "787.d1f07cb6.chunk.js.map": "/Attendancee-react-app/static/js/787.d1f07cb6.chunk.js.map"
+    "main.css": "/Attendance-react-app/static/css/main.26772f02.css",
+    "main.js": "/Attendance-react-app/static/js/main.d8809a75.js",
+    "static/js/787.d1f07cb6.chunk.js": "/Attendance-react-app/static/js/787.d1f07cb6.chunk.js",
+    "index.html": "/Attendance-react-app/index.html",
+    "main.26772f02.css.map": "/Attendance-react-app/static/css/main.26772f02.css.map",
+    "main.d8809a75.js.map": "/Attendance-react-app/static/js/main.d8809a75.js.map",
+    "787.d1f07cb6.chunk.js.map": "/Attendance-react-app/static/js/787.d1f07cb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26772f02.css",
-    "static/js/main.37fca9d4.js"
+    "static/js/main.d8809a75.js"
   ]
 }
